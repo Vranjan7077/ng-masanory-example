@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Clone\Angular\ng-images-masonry\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! D:\ng Project\ng-images-masonry\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
